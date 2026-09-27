@@ -1,6 +1,6 @@
 name: 04 - Understanding Runners (Win + Ubuntu)
 
-on: push
+on: workflow_dispatch
 
 jobs:
   ubuntu-runner-job-1:
