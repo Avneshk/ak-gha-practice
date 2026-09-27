@@ -1,4 +1,4 @@
-name: "01 - understanding_contexts
+name: "01 - understanding_contexts"
 on: push
 jobs:
     event-info-job:
